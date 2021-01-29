@@ -19,6 +19,7 @@ public class demo1Servlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		response.getWriter().write("hello maven");
 		response.getWriter().write("hello maven");
+		response.getWriter().write("hello maven");
 	}
 
 	/**
