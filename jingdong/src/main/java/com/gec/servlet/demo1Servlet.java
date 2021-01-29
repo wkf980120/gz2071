@@ -21,7 +21,11 @@ public class demo1Servlet extends HttpServlet {
 		response.getWriter().write("hello maven");
 		response.getWriter().write("hello maven");
 		response.getWriter().write("hello maven");
+<<<<<<< HEAD
 		response.getWriter().write("hello git2");
+=======
+		response.getWriter().write("hello git1");
+>>>>>>> branch 'master' of https://github.com/wkf980120/gz2071.git
 
 	}
 
