@@ -8,8 +8,6 @@
 	<packaging>war</packaging>
 
 
-
-
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
