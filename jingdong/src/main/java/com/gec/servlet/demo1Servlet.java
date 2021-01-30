@@ -25,6 +25,9 @@ public class demo1Servlet extends HttpServlet {
 
 		response.getWriter().write("hello git2");
 		response.getWriter().write("hello git2");
+		
+		
+		response.getWriter().write("hello git1");
 
 	
 
