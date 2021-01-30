@@ -22,7 +22,7 @@ public class demo1Servlet extends HttpServlet {
 		response.getWriter().write("hello maven");
 		response.getWriter().write("hello maven");
 
-
+		response.getWriter().write("hello git2");
 
 	
 
